@@ -87,6 +87,9 @@ You can do that with the shortcode, too, like so: `<?php echo do_shortcode('[nea
 
 == Changelog ==
 
+= 0.6 =
+* Added ability to filter by category
+
 = 0.5 =
 * Added read more text option
 
